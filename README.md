@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syamprasad13
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
 
